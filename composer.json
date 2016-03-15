@@ -8,7 +8,6 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
         "netvlies/basecamp-php": "^1.0@dev",
-        "drzippie/pivotal-tracker-api": "^1.1",
         "ixudra/curl": "^6.0"
     },
     "minimum-stability":"dev",
